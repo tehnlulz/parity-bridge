@@ -106,7 +106,7 @@ requires `rust` and `cargo`: [installation instructions.](https://www.rust-lang.
 
 requires `solc`: [installation instructions.](https://solidity.readthedocs.io/en/develop/installing-solidity.html)
 
-assuming you've cloned the bridge (`git clone git@github.com:paritytech/parity-bridge.git`)
+assuming you've cloned the bridge (`git clone git://github.com/paritytech/parity-bridge.git`)
 and are in the project directory (`cd parity-bridge`) run:
 
 ```
